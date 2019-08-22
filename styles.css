@@ -1,0 +1,9 @@
+
+h1{
+	text-align: center;
+}
+form#todoForm {
+    text-align: center;
+    background: #3a3a50;
+    padding: 2rem;
+}
